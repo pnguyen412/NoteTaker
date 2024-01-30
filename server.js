@@ -3,7 +3,7 @@ const path = require('path');
 const express = require('express')
 const app = express()
 const PORT = process.env.PORT || 3000
-const db = require('./db/db.json')
+const allNotes = require('./db/db.json')
 
 // Use middleware
 app.use(express.urlencoded({ extended: true }));

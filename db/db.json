@@ -1,6 +1,8 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  1,
+  {
+    "title": "title",
+    "text": "yes",
+    "id": 0
+  }
 ]
