@@ -11,7 +11,7 @@
 - Clone the repository on github locally. After being successfully cloned, files are editable through VSC.
 
 ## Usage:
-- (heroku link to be inserted)
+- https://challenge-11-note-taker-utor-14a7afdc44f0.herokuapp.com
 - https://github.com/pnguyen412/NoteTaker 
  ![screenshot1](assets/images/ScreenshotMain.png)
  ![screenshot1](assets/images/ScreenshotQuestion.png)
